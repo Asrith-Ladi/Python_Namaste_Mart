@@ -39,6 +39,14 @@ https://github.com/Asrith-Ladi/Python_Namaste_Kart/blob/main/Project%20Descripti
 Paths declared.
 
 Checks length of incoming folder, and validates all conditions, if any failed then moved to rejected folder with same name and it succeed then move to success folder.
+
+# How can I see the results?
+
+1. Download the Asrith_Namaste_Kart.zip file and unzip it.
+2. Go to Asrith_Namaste_Kart\Namaste_Kart\Code as shown in below image.
+3. Now run the excel_file_generator.py -> To generate 200 ( includes success and failure files ) with random data.
+4. Now run main.py to experience the results.
+   
 ![Alt text](excel_file_generator.png "Optional title")
 
 
