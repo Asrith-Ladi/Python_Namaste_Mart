@@ -5,7 +5,6 @@ This project is part of Namaste Python course
 
 https://github.com/Asrith-Ladi/Python_Namaste_Kart/blob/main/Project%20Description
 
-
 # Libraries I used :
 
 1. Openpyxl
