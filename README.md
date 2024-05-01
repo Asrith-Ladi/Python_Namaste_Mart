@@ -1,6 +1,10 @@
 # Python_Namaste_Kart
 This project is part of Namaste Python course
 
+## Description : 
+
+https://github.com/Asrith-Ladi/Python_Namaste_Kart/blob/main/Project%20Description
+
 
 # Libraries I used :
 
